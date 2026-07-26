@@ -77,7 +77,7 @@ Currently exploring:
 ## 🛠️ Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,idea,linux,figma" />
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea,linux,figma,supabase,vercel,render" />
 </p>
 
 ---
